@@ -18,7 +18,6 @@ $ yarn add react-native-warnings
 ## Examples
 
 ```
-import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import { Warnings } from "react-native-warnings";
@@ -26,7 +25,6 @@ import { Warnings } from "react-native-warnings";
 export default function App() {
   return (
     <View style={styles.container}>
-      <StatusBar style="auto" />
       {/* <Warnings
         color="red"
         fontColor="white"
