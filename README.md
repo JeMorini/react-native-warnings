@@ -1,9 +1,5 @@
 # react-native-warnings
 
-warning library for react native
-
-[![MIT License][license-badge]][license]
-
 ## Description
 
 Warning library for react native highly customizable.
