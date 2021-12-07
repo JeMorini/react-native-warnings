@@ -1,0 +1,33 @@
+{
+  "name": "react-native-warnings",
+  "version": "1.0.5",
+  "description": "warning library for react native",
+  "main": "src/components/index.tsx",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "expo": "~43.0.2",
+    "expo-status-bar": "~1.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeMorini/react-native-warnings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeMorini/react-native-warnings/issues"
+  },
+  "homepage": "https://github.com/JeMorini/react-native-warnings#readme"
+}
